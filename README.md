@@ -1,6 +1,10 @@
 ## Hello, I'm Jean Carlo Pelanda!
 
-<p>Front-end developer since 2011, I am proud to have participated in numerous projects throughout my career, coding systems, websites, e-commerce platforms, and marketing emails on various platforms. I am open to change and passionate about HTML, CSS, and JavaScript. I feel fulfilled playing this dynamic role of a developer. Therefore, I am very excited to take on new challenges, meet good people, reinvent myself, and continue to evolve.</p>
+<p>Senior Front-end Developer with over 14 years of experience, specialized in building modern and responsive web interfaces using React, TypeScript, and Next.js. Throughout my career, I have worked on several challenging projects — including banking systems, payment platforms, and e-commerce solutions — where I applied and enhanced my knowledge in performance, scalability, accessibility, and SEO.</p>
+
+<p>My development approach always prioritizes clean code, best practices, and a strong focus on user experience (UX). I also have extensive experience integrating with REST/RESTful APIs, developing and maintaining micro frontends, and building reusable and efficient components.</p>
+
+<p>Passionate about web development, I’m comfortable working in various roles such as Software Engineer, Tech Lead, and Senior Front-end Developer, always aiming to turn complexity into elegant and functional solutions.</p>
 
 <div align="center">
   <a href="https://github.com/jeanpelanda">
